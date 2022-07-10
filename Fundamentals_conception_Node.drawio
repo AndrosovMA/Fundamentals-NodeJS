@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T04:21:10.941Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tp__R3UzT8PpePcg0rIJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T04:27:09.705Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JuLxSoF6IrsXjUtWwhVp" version="20.0.4" type="github">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1557" dy="-1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="-1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,11 +111,11 @@
         <mxCell id="sV1EF75wnMwJqTNc-eX5-34" value="&lt;b&gt;Libuv&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="479.18" y="3070" width="86.38" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sV1EF75wnMwJqTNc-eX5-35" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Кросплатформенный I/O (ввод-вывод)&lt;br&gt;-Цикл событий Event Loop&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="3070" width="200" height="40" as="geometry" />
+        <mxCell id="sV1EF75wnMwJqTNc-eX5-35" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Кросплатформенный I/O (ввод-вывод)&lt;br&gt;-Цикл событий Event Loop&lt;br&gt;- под капотом использует по дефолту 4 потока&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="3070" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sV1EF75wnMwJqTNc-eX5-36" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;- Трансляция JS кода в машинный код&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="3020" width="200" height="40" as="geometry" />
+          <mxGeometry x="570" y="3020" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sV1EF75wnMwJqTNc-eX5-37" value="&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;Блокирующий ввод/&lt;/i&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;вывод&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="3180" width="125.31" height="35" as="geometry" />
