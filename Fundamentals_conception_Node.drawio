@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T04:29:11.895Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oM5q2laPW3G1zHf_8VCk" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T06:08:37.728Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sbup3v8btR2DfqfCIFfw" version="20.0.4" type="github">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="908" dy="-688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="-476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,12 @@
         </mxCell>
         <mxCell id="sV1EF75wnMwJqTNc-eX5-72" value="&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;queue состоит из 3-x очередей:&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: x-small&quot;&gt;micro,&lt;/i&gt;&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;&amp;nbsp;animation,&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: x-small&quot;&gt;macro&lt;/i&gt;&lt;font face=&quot;times new roman&quot; size=&quot;1&quot;&gt;&lt;i&gt;&amp;nbsp;(указаны по приоритету)&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sV1EF75wnMwJqTNc-eX5-44">
           <mxGeometry x="40" y="220" width="219.58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV1EF75wnMwJqTNc-eX5-73" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Планировщик потоков / Thread scheduler&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="45.06" y="3540" width="194.94" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sV1EF75wnMwJqTNc-eX5-74" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;i&gt;с версии node 11.7.0 был введен модуль worker_threads для управления потоками&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#B3B3B3;fillColor=#f5f5f5;fontColor=#333333;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="67" y="3590" width="263" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
