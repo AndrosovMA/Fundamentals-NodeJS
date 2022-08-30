@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T09:33:13.973Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jf8b7091wpMGZKkjL5-Z" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-30T09:37:58.626Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W0AF6zEThOydDnyx8O9A" version="20.2.7" type="github" pages="2">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="934" dy="-1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="934" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,6 +304,12 @@
         </mxCell>
         <mxCell id="2cCBmykDjnYM0re8fbiw-7" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;в браузере F12 и кнопка node&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="241" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6clrDMnSUpjKCtWMK_VG-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn add typescript ts-node @types/node @types/express --dev&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="213" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6clrDMnSUpjKCtWMK_VG-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;подключение typescript&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="183" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
