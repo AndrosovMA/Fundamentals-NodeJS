@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T05:28:36.557Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Cte4F0K5-ph-Igy6iHOo" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:37:13.786Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CfiCulPg_O58mqU6xHaO" version="20.2.7" type="github" pages="2">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1724" dy="-1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,6 +406,9 @@
             <mxPoint x="445.75" y="774.5" as="sourcePoint" />
             <mxPoint x="535.75" y="774.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LA-FNOr12G8XvkG_DEf5-11" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- заберет исходный код&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- восстановит&amp;nbsp;node moduls&lt;br&gt;&lt;/span&gt;- запустит build&lt;br&gt;-запустит start&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="779" width="140" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
