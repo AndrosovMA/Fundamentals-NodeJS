@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T06:16:49.852Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="I9pmB2Usz-kYU7BLxcza" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T09:35:10.606Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="eGGPe1smGvRbN7ZLXgp0" version="20.2.7" type="github" pages="2">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1052" dy="-1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,11 +271,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="1052" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L5J1V923Wl_Vf4Jci2CP-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;yarn init&amp;nbsp;&amp;nbsp;&lt;br&gt;- инициализации package.json&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L5J1V923Wl_Vf4Jci2CP-1" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;yarn init&amp;nbsp;&amp;nbsp;&lt;br&gt;- инициализации tsconfig.json&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="25.25" y="140" width="299.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5J1V923Wl_Vf4Jci2CP-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;yarn add express&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
@@ -419,10 +419,10 @@
         <mxCell id="LA-FNOr12G8XvkG_DEf5-17" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;//start app&lt;br&gt;&lt;/span&gt;app.&lt;span style=&quot;color:#ffc66d;&quot;&gt;listen&lt;/span&gt;(port&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;() =&amp;gt; {&lt;br&gt;  &lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;console&lt;/span&gt;.&lt;span style=&quot;color:#ffc66d;&quot;&gt;log&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;`App listening at http://localhost:&lt;/span&gt;${port}&lt;span style=&quot;color:#6a8759;&quot;&gt;`&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;})&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="6.25" y="1070" width="409.25" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="E4C9JeNAyDpCBXKb0kyZ-1" value="&lt;b&gt;Swagger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="E4C9JeNAyDpCBXKb0kyZ-1" value="&lt;b&gt;Swagger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="340" y="1460" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E4C9JeNAyDpCBXKb0kyZ-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;составление документации&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E4C9JeNAyDpCBXKb0kyZ-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;составление документации&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="1510" width="335" height="30" as="geometry" />
         </mxCell>
       </root>
