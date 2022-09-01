@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T11:02:07.566Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rR3xf1uG6YEl0NP_bXa0" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T11:06:48.068Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="15zX-2IeFWizv-OWqZuC" version="20.2.7" type="github" pages="2">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="1363" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,10 +414,10 @@
           <mxGeometry x="340" y="960" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LA-FNOr12G8XvkG_DEf5-16" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;//create express app&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;app = &lt;span style=&quot;color:#ffc66d;&quot;&gt;express&lt;/span&gt;()&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="27" y="1040.5" width="176.75" height="60" as="geometry" />
+          <mxGeometry x="73.00000000000001" y="1066" width="176.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LA-FNOr12G8XvkG_DEf5-17" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;//start app&lt;br&gt;&lt;/span&gt;app.&lt;span style=&quot;color:#ffc66d;&quot;&gt;listen&lt;/span&gt;(port&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;() =&amp;gt; {&lt;br&gt;  &lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;console&lt;/span&gt;.&lt;span style=&quot;color:#ffc66d;&quot;&gt;log&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;`App listening at http://localhost:&lt;/span&gt;${port}&lt;span style=&quot;color:#6a8759;&quot;&gt;`&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;})&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="418" y="1030" width="409.25" height="81" as="geometry" />
+          <mxGeometry x="380" y="1063" width="409.25" height="81" as="geometry" />
         </mxCell>
         <mxCell id="E4C9JeNAyDpCBXKb0kyZ-1" value="&lt;b&gt;Swagger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="340" y="1700" width="130" height="50" as="geometry" />
@@ -425,23 +425,26 @@
         <mxCell id="E4C9JeNAyDpCBXKb0kyZ-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;составление документации&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="1750" width="335" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1t64rSNNbioNkRhaLQnp-1" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;uri параметры - продолжение строки (меняет роутинг)&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="1t64rSNNbioNkRhaLQnp-1" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;uri параметры - продолжение строки (меняет роутинг)&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=none;labelBorderColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="20" y="1190" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-2" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;// через свойства params можем обратиться к данным после :&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#808080;&quot;&gt;// : двоеточие это фишка express&lt;br&gt;&lt;/span&gt;app.&lt;span style=&quot;color:#9876aa;&quot;&gt;get&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/students/:id_student&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;let &lt;/span&gt;id_student = req.&lt;span style=&quot;color:#9876aa;&quot;&gt;params&lt;/span&gt;.id_student&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    let &lt;/span&gt;student = students.&lt;span style=&quot;color:#ffc66d;&quot;&gt;find&lt;/span&gt;(el =&amp;gt; el.&lt;span style=&quot;color:#9876aa;&quot;&gt;id &lt;/span&gt;=== id_student)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    if &lt;/span&gt;(student) {&lt;br&gt;        res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;&quot;&gt;student&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;firstName&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    &lt;/span&gt;}&lt;br&gt;})&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="13.25" y="1220" width="456.75" height="190" as="geometry" />
+          <mxGeometry x="23.25" y="1219" width="456.75" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1t64rSNNbioNkRhaLQnp-3" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;uri параметры - продолжение строки (меняет роутинг)&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1440" width="360" height="40" as="geometry" />
+        <mxCell id="1t64rSNNbioNkRhaLQnp-3" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;query параметры - ?firstName&lt;/pre&gt;&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=default;labelBorderColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="35.75" y="1426" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="8.25" y="1030" width="20" height="20" as="geometry" />
+          <mxGeometry x="13.25" y="1030" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-5" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="10.75" y="1169" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="13.25" y="1420" width="20" height="20" as="geometry" />
+          <mxGeometry x="13.25" y="1406" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1t64rSNNbioNkRhaLQnp-11" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;первичная инициализация переменных express&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="35.75" y="1036" width="240" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
