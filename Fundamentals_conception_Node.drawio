@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T15:05:17.106Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AVcvDuq9bfykwKE8afcy" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-02T18:07:15.656Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0HSf8kZ4D1CYiFKOqkWv" version="20.2.8" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="-1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="1635" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,6 +445,20 @@
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-11" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;первичная инициализация переменных express&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="35.75" y="1036" width="240" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="woaHvIGcgaackT3HbBq1" name="Page-3">
+    <mxGraphModel dx="1164" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avaI-qB28hnVqB13itlG-1" value="&lt;b&gt;Тестирование&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eoOT94TzHAOc_kNmnrzv-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;e2e - end to end тестирование&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
