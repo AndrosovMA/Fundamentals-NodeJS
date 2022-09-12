@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T09:52:03.576Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="65Byk5bA0jRIjIOl6WEb" version="20.2.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T17:20:42.645Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Ra1T7Mut4RTLMj_x3nGL" version="20.3.0" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="1635" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,10 +420,10 @@
           <mxGeometry x="380" y="1063" width="409.25" height="81" as="geometry" />
         </mxCell>
         <mxCell id="E4C9JeNAyDpCBXKb0kyZ-1" value="&lt;b&gt;Swagger&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1700" width="130" height="50" as="geometry" />
+          <mxGeometry x="340" y="1413" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E4C9JeNAyDpCBXKb0kyZ-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;составление документации&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437.5" y="1750" width="335" height="30" as="geometry" />
+          <mxGeometry x="439.5" y="1491" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-1" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;uri параметры - продолжение строки (меняет роутинг)&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=none;labelBorderColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="20" y="1190" width="360" height="40" as="geometry" />
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="woaHvIGcgaackT3HbBq1" name="Page-3">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,10 +469,10 @@
         <mxCell id="RubS-5Sg-9WXHB2mFJXl-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;фреймворк для тестирования&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="290" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QWIcNSxPk-0mY4ZjoR7I-1" value="&lt;b&gt;supertest&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="QWIcNSxPk-0mY4ZjoR7I-1" value="&lt;b&gt;supertest&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="60" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QWIcNSxPk-0mY4ZjoR7I-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;фреймворк для асинхронного запроса при тестирования&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QWIcNSxPk-0mY4ZjoR7I-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;фреймворк для асинхронного запроса при тестирования&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="410" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
