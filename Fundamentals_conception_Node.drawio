@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T11:07:20.991Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zoGvIo318OvmPHEWnlvU" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-13T11:09:20.540Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="01zSDiH7UYbndIJmexXN" version="20.3.0" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
           <mxGeometry x="502.25" y="264" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2cCBmykDjnYM0re8fbiw-7" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;в браузере F12 и кнопка node&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="622.25" y="225.5" width="180" height="30" as="geometry" />
+          <mxGeometry x="622.25" y="225.5" width="177.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6clrDMnSUpjKCtWMK_VG-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn add typescript ts-node @types/node @types/express --dev&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="27" y="284" width="300" height="30" as="geometry" />
@@ -490,6 +490,9 @@
         </mxCell>
         <mxCell id="IFudhs6uNGgf_y1yDPoc-5" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#9876aa;&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;: &lt;/span&gt;{&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#9876aa;&quot;&gt;&quot;dev&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color:#6a8759;&quot;&gt;&quot;nodemon --inspect dist/index.js&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color:#6a8759;&quot;&gt;&lt;br&gt;&lt;/span&gt;}&lt;span style=&quot;color:#cc7832;&quot;&gt;,&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="532.25" y="365" width="287.75" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IFudhs6uNGgf_y1yDPoc-13" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;https://dev.to/oieduardorabelo/nodejs-with-typescript-debug-inside-vscode-and-nodemon-23o7&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="465" width="276.75" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
