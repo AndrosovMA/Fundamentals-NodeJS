@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T07:23:49.924Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="I5AIEeYeOwM3-B-IZLA8" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-16T05:22:01.819Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W2PGb-iBhgAZKQTUNt2m" version="20.3.0" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,14 +281,14 @@
         <mxCell id="L5J1V923Wl_Vf4Jci2CP-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;yarn add express&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="23.75" y="93" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L5J1V923Wl_Vf4Jci2CP-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn add nodemon --dev&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- пакет для автоматического изменения данных на localhost&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="469.5" y="84" width="300" height="30" as="geometry" />
+        <mxCell id="L5J1V923Wl_Vf4Jci2CP-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn add nodemon --dev&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- пакет (утилита) для автоматического изменения данных на localhost&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="469.5" y="84" width="300" height="43" as="geometry" />
         </mxCell>
         <mxCell id="2cCBmykDjnYM0re8fbiw-2" value="&lt;font size=&quot;1&quot; face=&quot;times new roman&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;yarn install&lt;br&gt;- установить все пакеты с package.json&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="23.25" y="129" width="298.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cCBmykDjnYM0re8fbiw-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn nodemon index.js&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- запуск проета с монитором&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="469.5" y="119" width="300" height="40" as="geometry" />
+          <mxGeometry x="469.5" y="134" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2cCBmykDjnYM0re8fbiw-5" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn nodemon --inspect index.js&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- запуск проета с монитором в скомпилированном файле&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="502.25" y="264" width="300" height="40" as="geometry" />
@@ -408,7 +408,7 @@
           <mxGeometry x="20" y="1190" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-2" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#808080;&quot;&gt;// через свойства params можем обратиться к данным после :&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#808080;&quot;&gt;// : двоеточие это фишка express&lt;br&gt;&lt;/span&gt;app.&lt;span style=&quot;color:#9876aa;&quot;&gt;get&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/students/:id_student&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;let &lt;/span&gt;id_student = req.&lt;span style=&quot;color:#9876aa;&quot;&gt;params&lt;/span&gt;.id_student&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    let &lt;/span&gt;student = students.&lt;span style=&quot;color:#ffc66d;&quot;&gt;find&lt;/span&gt;(el =&amp;gt; el.&lt;span style=&quot;color:#9876aa;&quot;&gt;id &lt;/span&gt;=== id_student)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    if &lt;/span&gt;(student) {&lt;br&gt;        res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;&quot;&gt;student&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;firstName&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    &lt;/span&gt;}&lt;br&gt;})&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="23.25" y="1219" width="456.75" height="190" as="geometry" />
+          <mxGeometry x="23.25" y="1219" width="436.75" height="161" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-3" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;query параметры - ?title=o&lt;/pre&gt;&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=default;labelBorderColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="545.75" y="1190" width="190" height="40" as="geometry" />
@@ -501,16 +501,16 @@
         <mxCell id="8SJBldWi2dM3KIz2hdBU-1" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Код который общается с базой данных&lt;br&gt;&lt;/b&gt;создаем repositories&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="311.25" y="2082.5" width="212" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="nLzr1UDuxASSi9gglXp6-2" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nLzr1UDuxASSi9gglXp6-2" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="455.75" y="1409" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nLzr1UDuxASSi9gglXp6-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nLzr1UDuxASSi9gglXp6-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="455.25" y="960" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nLzr1UDuxASSi9gglXp6-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nLzr1UDuxASSi9gglXp6-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="459.5" y="670" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nLzr1UDuxASSi9gglXp6-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="nLzr1UDuxASSi9gglXp6-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="463.75" y="4" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
