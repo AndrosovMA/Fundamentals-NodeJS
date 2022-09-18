@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T09:15:07.831Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cnsx0qgej2tRKA2BK_xO" version="20.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-18T09:32:49.067Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_mFWKsi-lbpqRowNmndH" version="20.3.2" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="-1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,7 +411,7 @@
           <mxGeometry x="23.25" y="1219" width="436.75" height="161" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-3" value="&lt;font style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;query параметры - ?title=o&lt;/pre&gt;&lt;/pre&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=left;fontFamily=Times New Roman;fontStyle=0;strokeColor=none;fillColor=default;fontColor=default;labelBackgroundColor=default;labelBorderColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="545.75" y="1190" width="190" height="40" as="geometry" />
+          <mxGeometry x="545.75" y="1190" width="174.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1t64rSNNbioNkRhaLQnp-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="13.25" y="1030" width="20" height="20" as="geometry" />
