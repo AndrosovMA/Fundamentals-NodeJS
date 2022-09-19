@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T10:47:32.489Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QncA_hoblSmADCH9Mbh4" version="20.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-19T10:58:32.395Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4JhISb0bCBXrV5pgD4hF" version="20.3.2" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1363" dy="-1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,6 +554,12 @@
             <mxPoint x="103.74000000000002" y="2130" as="sourcePoint" />
             <mxPoint x="103.44000000000001" y="2191.855" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tPGoZS0zmkbCjxPnEeH_-14" value="&lt;b&gt;Express middleware, chain of responsibillity&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2360.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tPGoZS0zmkbCjxPnEeH_-15" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="467.25" y="2350" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
