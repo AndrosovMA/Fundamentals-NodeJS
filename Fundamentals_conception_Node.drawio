@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T04:20:47.361Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4Sy3Qg_T2tT1rbRENSIL" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-26T04:29:02.539Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RG5xDw-_IOfQ61yAM710" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -561,8 +561,8 @@
         <mxCell id="tPGoZS0zmkbCjxPnEeH_-15" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="467.25" y="2350" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nnxMxpnung376jUT7pKz-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;инициализируем использование промежуточного слоя&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.75" y="2410.5" width="324.25" height="27.5" as="geometry" />
+        <mxCell id="nnxMxpnung376jUT7pKz-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;поведенческие паттерны:&lt;br&gt;&lt;/span&gt;CoR - chain of responsibility&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.75" y="2402.5" width="164.25" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="nnxMxpnung376jUT7pKz-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="2700" width="137.25" height="60.5" as="geometry" />
