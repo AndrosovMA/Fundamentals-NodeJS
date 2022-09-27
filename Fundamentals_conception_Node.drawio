@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T10:48:55.417Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Qmm53545mMUj4izSzVYN" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-27T11:00:25.777Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VmycapVfEEDHSzKb_3jR" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Page-2">
-    <mxGraphModel dx="2336" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1208" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,32 +425,32 @@
         <mxCell id="f0Q8mFaypH2mzY5xCbkT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=-0.003;exitY=0.287;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;jumpStyle=none;" parent="1" source="f0Q8mFaypH2mzY5xCbkT-1" target="f0Q8mFaypH2mzY5xCbkT-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="22.75" y="1950" />
-              <mxPoint x="22.75" y="2049" />
+              <mxPoint x="36.31" y="1933" />
+              <mxPoint x="36.31" y="2032" />
             </Array>
-            <mxPoint x="33.75" y="1950" as="sourcePoint" />
+            <mxPoint x="47.31" y="1933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f0Q8mFaypH2mzY5xCbkT-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Presentation layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="39.989999999999995" y="1940" width="150" height="35" as="geometry" />
+          <mxGeometry x="53.55" y="1923" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="f0Q8mFaypH2mzY5xCbkT-2" target="f0Q8mFaypH2mzY5xCbkT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f0Q8mFaypH2mzY5xCbkT-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Bisiness Layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="40.72999999999999" y="2040" width="150" height="35" as="geometry" />
+          <mxGeometry x="54.28999999999999" y="2023" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="f0Q8mFaypH2mzY5xCbkT-3" target="f0Q8mFaypH2mzY5xCbkT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f0Q8mFaypH2mzY5xCbkT-3" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Data Access Layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="40.72999999999999" y="2100" width="150" height="35" as="geometry" />
+          <mxGeometry x="54.28999999999999" y="2083" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="f0Q8mFaypH2mzY5xCbkT-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Data Sourse &lt;br style=&quot;&quot;&gt;(любая база данных)&lt;/i&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;fillColor=#FFF7E8;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="39.989999999999995" y="2190" width="152.76" height="30" as="geometry" />
+          <mxGeometry x="53.55" y="2173" width="152.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lTsklsb5gALmSaWrrMGP-1" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Router &lt;/b&gt;- так как работает с HTTP -&amp;nbsp; работа с клиентом, то это уровень Presentation&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="63.75" y="1970" width="212" height="35" as="geometry" />
+          <mxGeometry x="77.31" y="1953" width="212" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IFudhs6uNGgf_y1yDPoc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IFudhs6uNGgf_y1yDPoc-1" target="2cCBmykDjnYM0re8fbiw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -477,7 +477,7 @@
           <mxGeometry x="550" y="465" width="276.75" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8SJBldWi2dM3KIz2hdBU-1" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Код который общается с базой данных&lt;br&gt;&lt;/b&gt;- создаем repositories&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="57.75" y="2132" width="212" height="32.5" as="geometry" />
+          <mxGeometry x="71.31" y="2115" width="212" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="nLzr1UDuxASSi9gglXp6-2" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="460" y="1590" width="20" height="20" as="geometry" />
@@ -561,28 +561,37 @@
           <mxGeometry x="18.629999999999995" y="2770" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30.75" y="1925" width="20" height="20" as="geometry" />
+          <mxGeometry x="36.81" y="1968" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="31.75" y="2023" width="20" height="20" as="geometry" />
+          <mxGeometry x="34.29" y="2061" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--5" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="32.75" y="2086" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NtHnkhxKjfVc2R7Sw3u--6" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30.75" y="2180" width="20" height="20" as="geometry" />
+          <mxGeometry x="36.81" y="2143" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1923" width="20" height="20" as="geometry" />
+          <mxGeometry x="320" y="1924" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NtHnkhxKjfVc2R7Sw3u--10" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Всю логику &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;взаимодействия&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;выносим&amp;nbsp; с данными выносим в repositories&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385.75" y="1925" width="212" height="35" as="geometry" />
+        <mxCell id="NtHnkhxKjfVc2R7Sw3u--10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Всю логику &lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;взаимодействия&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;с данными выносим в отдельный файл blogs-repositories.ts&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341.75" y="1920" width="418.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-1" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;import &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;{&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;dataBlogs&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;} &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;../data&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;export const &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;blogsRepositories &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;= {&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;findBlog&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;(id: &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;string &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;| &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;null &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;| &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;undefined&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;) {&lt;br&gt;        &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;blog = &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;dataBlogs&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;.&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;find&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;(el =&amp;gt; el[&lt;/font&gt;&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;id&#39;&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;] === id)&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        if &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;(blog) { &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;return &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;blog&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#cc7832&quot;&gt; &lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;} &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;else &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;{ &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;return undefined &lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;}&lt;br&gt;    }&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#a9b7c6&quot;&gt;}&lt;/font&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="368.25" y="1932" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="317.63" y="2081" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пока не используем Bisness Layer, т.е связывается Presentation and data access layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="2080" width="382.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;import &lt;/span&gt;{&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;} &lt;span style=&quot;color:#cc7832;&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color:#6a8759;&quot;&gt;&quot;../repositories/blogs-repositories&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogs&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;get&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/:id&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;id = req.&lt;span style=&quot;color:#9876aa;&quot;&gt;params&lt;/span&gt;.id&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    const &lt;/span&gt;foundBlog = &lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;.&lt;span style=&quot;color:#ffc66d;&quot;&gt;findBlog&lt;/span&gt;(id)&lt;br&gt;&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;if &lt;/span&gt;(foundBlog) { res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;&quot;&gt;foundBlog&lt;/span&gt;)} &lt;span style=&quot;color:#cc7832;&quot;&gt;else &lt;/span&gt;{res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;404&lt;/span&gt;)}&lt;br&gt;})&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="2101" width="410" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="woaHvIGcgaackT3HbBq1" name="Page-3">
-    <mxGraphModel dx="1635" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1752" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
