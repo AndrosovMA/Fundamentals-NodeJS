@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T11:00:25.777Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VmycapVfEEDHSzKb_3jR" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-27T11:00:35.755Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="M7rv7SaOcZwSNVyAXxWy" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,13 +579,13 @@
           <mxGeometry x="368.25" y="1932" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="317.63" y="2081" width="20" height="20" as="geometry" />
+          <mxGeometry x="317.63" y="2073" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Пока не используем Bisness Layer, т.е связывается Presentation and data access layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="339.5" y="2080" width="382.25" height="35" as="geometry" />
+          <mxGeometry x="339.5" y="2072" width="382.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;import &lt;/span&gt;{&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;} &lt;span style=&quot;color:#cc7832;&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color:#6a8759;&quot;&gt;&quot;../repositories/blogs-repositories&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogs&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;get&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/:id&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;id = req.&lt;span style=&quot;color:#9876aa;&quot;&gt;params&lt;/span&gt;.id&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    const &lt;/span&gt;foundBlog = &lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;.&lt;span style=&quot;color:#ffc66d;&quot;&gt;findBlog&lt;/span&gt;(id)&lt;br&gt;&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;if &lt;/span&gt;(foundBlog) { res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;&quot;&gt;foundBlog&lt;/span&gt;)} &lt;span style=&quot;color:#cc7832;&quot;&gt;else &lt;/span&gt;{res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;404&lt;/span&gt;)}&lt;br&gt;})&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370.5" y="2101" width="410" height="116" as="geometry" />
+          <mxGeometry x="370.5" y="2093" width="410" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
