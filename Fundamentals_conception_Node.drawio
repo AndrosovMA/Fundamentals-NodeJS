@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T17:17:17.437Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nDXC2kjXySXU0k3cW0Do" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-27T19:53:25.550Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5rwZ4a84xpsG1EYIzzlv" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -586,6 +586,15 @@
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;import &lt;/span&gt;{&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;} &lt;span style=&quot;color:#cc7832;&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color:#6a8759;&quot;&gt;&quot;../repositories/blogs-repositories&quot;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogs&lt;/span&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;get&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/:id&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;id = req.&lt;span style=&quot;color:#9876aa;&quot;&gt;params&lt;/span&gt;.id&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    const &lt;/span&gt;foundBlog = &lt;span style=&quot;color:#9876aa;font-weight:bold;font-style:italic;&quot;&gt;blogsRepositories&lt;/span&gt;.&lt;span style=&quot;color:#ffc66d;&quot;&gt;findBlog&lt;/span&gt;(id)&lt;br&gt;&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;if &lt;/span&gt;(foundBlog) { res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;&quot;&gt;foundBlog&lt;/span&gt;)} &lt;span style=&quot;color:#cc7832;&quot;&gt;else &lt;/span&gt;{res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;404&lt;/span&gt;)}&lt;br&gt;})&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="2107" width="410" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="2940" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-6" value="&lt;b&gt;Basic Authorization&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Vc5BPIK62_60SuokWr86-5">
+          <mxGeometry y="10.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-7" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Vc5BPIK62_60SuokWr86-5">
+          <mxGeometry x="117.25" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
