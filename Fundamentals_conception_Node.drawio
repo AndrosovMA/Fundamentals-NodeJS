@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T05:56:22.365Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vKh5eULR5btCeytglIIA" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-03T05:59:00.121Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9hBfy6Dpesw9BCIGk6hH" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -611,7 +611,7 @@
         <mxCell id="Vc5BPIK62_60SuokWr86-12" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;при каждом запросе требуется отправлять login and password&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="38.63" y="3240" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vc5BPIK62_60SuokWr86-13" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;headers [&#39;&#39;Authorization&#39;] = &#39;Basic_login:pass&#39;&lt;br&gt;где&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;login:pass это admin:qwerty и эту часть требуется&amp;nbsp;закодировать в Base64&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vc5BPIK62_60SuokWr86-13" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;headers [&#39;&#39;Authorization&#39;] = &#39;Basic login:pass&#39;&lt;br&gt;где&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;login:pass это admin:qwerty и эту часть требуется&amp;nbsp;закодировать в Base64&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.88" y="3150" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
