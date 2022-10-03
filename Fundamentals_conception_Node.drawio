@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T19:19:57.457Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Lk27YNt78YuYjSA3S5Yu" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-03T19:22:28.465Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="guqfNroOCACCH8xzsguC" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,7 +734,7 @@
         <mxCell id="Vc5BPIK62_60SuokWr86-66" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="47.25" y="3860" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vc5BPIK62_60SuokWr86-67" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;1) устанавливаем локально на компьютер - package zip&lt;br&gt;2) в корневой папке, где распаковали пакет создаем папку /data/db&lt;br&gt;3) запускаем через cmd&amp;nbsp; - mongod.exe&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vc5BPIK62_60SuokWr86-67" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;1) устанавливаем локально на компьютер - package zip&lt;br&gt;2) в корневой папке, где распаковали пакет создаем папку /data/db&lt;br&gt;3) запускаем через cmd установку&amp;nbsp; - mongod.exe&lt;br&gt;4) запускаем СУБД&amp;nbsp; через cmd- ./mongod --dbpath &quot;./data/db/&quot;&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="64.25" y="3700" width="335.75" height="70" as="geometry" />
         </mxCell>
       </root>
