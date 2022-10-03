@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T05:59:00.121Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9hBfy6Dpesw9BCIGk6hH" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-03T06:56:52.377Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aKS74dKRQw-e9LHwVtAl" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Month-1">
-    <mxGraphModel dx="883" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1208" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,7 +588,7 @@
           <mxGeometry x="370.5" y="2107" width="410" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="3040" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="328.75" y="2990" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-6" value="&lt;b&gt;Basic Authorization&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Vc5BPIK62_60SuokWr86-5">
           <mxGeometry y="10.5" width="130" height="50" as="geometry" />
@@ -606,13 +606,25 @@
           <mxGeometry x="357.5" y="2773" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;информацию по авторизации мы не цепляем к телу запросу а используем headers&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="48.129999999999995" y="3120" width="250" height="30" as="geometry" />
+          <mxGeometry x="29.499999999999993" y="3070" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-12" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;при каждом запросе требуется отправлять login and password&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="38.63" y="3240" width="250" height="40" as="geometry" />
+          <mxGeometry x="27.870000000000005" y="3141" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-13" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;headers [&#39;&#39;Authorization&#39;] = &#39;Basic login:pass&#39;&lt;br&gt;где&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;login:pass это admin:qwerty и эту часть требуется&amp;nbsp;закодировать в Base64&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425.88" y="3150" width="250" height="60" as="geometry" />
+          <mxGeometry x="373" y="3070" width="384.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-14" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;isAutorization =  req.&lt;span style=&quot;color:#ffc66d;&quot;&gt;header&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;authorization&#39;&lt;/span&gt;) === &lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;Basic YWRtaW46cXdlcnR5&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;if &lt;/span&gt;(!isAutorization) {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;return &lt;/span&gt;res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;401&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="413.75" y="3101" width="406" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="7" y="3070" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="7.870000000000001" y="3140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-17" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="3070" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
