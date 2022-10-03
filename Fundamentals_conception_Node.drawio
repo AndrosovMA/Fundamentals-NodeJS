@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T11:34:50.239Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IKd_FXp5smLiHAfqBFc4" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-03T18:56:34.455Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bYPM6hw1rn_Dc2dn84Kd" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Month-1">
-    <mxGraphModel dx="1752" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,6 +706,15 @@
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-57" value="&lt;pre style=&quot;font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;http://localhost:300/students/1&#39;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="195.38" y="1212" width="250.75" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="3520" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-59" value="&lt;b&gt;MongoDB, mongod and mongo shell, Studio 3T&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Vc5BPIK62_60SuokWr86-58">
+          <mxGeometry y="21.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-60" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Vc5BPIK62_60SuokWr86-58">
+          <mxGeometry x="117.25" y="8" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
