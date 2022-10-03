@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T07:17:53.939Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="77TDlyJrCPviSjfMHOGt" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-03T08:27:34.024Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iVd-0AindxsZ9cZCa9W2" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Month-1">
-    <mxGraphModel dx="2061" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1752" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
           <mxGeometry x="425.75" y="1690" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tPGoZS0zmkbCjxPnEeH_-14" value="&lt;b&gt;Express middleware, chain of responsibillity&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="327" y="2348.5" width="130" height="50" as="geometry" />
+          <mxGeometry x="327" y="2343.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tPGoZS0zmkbCjxPnEeH_-15" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="444.25" y="2338" width="20" height="20" as="geometry" />
@@ -540,7 +540,7 @@
           <mxGeometry x="416.5" y="2390.5" width="164.25" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="nnxMxpnung376jUT7pKz-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="322" y="2700" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="322" y="2880" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="nnxMxpnung376jUT7pKz-2" value="&lt;b&gt;Input validation&lt;br&gt;express validation&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="nnxMxpnung376jUT7pKz-4" vertex="1">
           <mxGeometry y="10.5" width="130" height="50" as="geometry" />
@@ -549,16 +549,16 @@
           <mxGeometry x="117.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EJospdCDMijbxCRYbTG2-1" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn add express validator&lt;/span&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="52.300000000000004" y="2803" width="147.62" height="30" as="geometry" />
+          <mxGeometry x="52.300000000000004" y="2990" width="147.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EJospdCDMijbxCRYbTG2-2" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;yarn tsc --init&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="58.17" y="2903" width="146.37" height="30" as="geometry" />
+          <mxGeometry x="58.17" y="3090" width="146.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EJospdCDMijbxCRYbTG2-3" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;установка type sctipt компилятор - инициализация конфиг для скрипта&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="23.25" y="2860" width="221.37" height="30" as="geometry" />
+          <mxGeometry x="23.25" y="3047" width="221.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EJospdCDMijbxCRYbTG2-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;подключение пакета для валидации данных&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="18.629999999999995" y="2780" width="250" height="30" as="geometry" />
+          <mxGeometry x="18.629999999999995" y="2967" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtHnkhxKjfVc2R7Sw3u--3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="36.81" y="1982" width="20" height="20" as="geometry" />
@@ -588,49 +588,121 @@
           <mxGeometry x="370.5" y="2107" width="410" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="328.75" y="2990" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="328.75" y="3210" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-6" value="&lt;b&gt;Basic Authorization&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Vc5BPIK62_60SuokWr86-5">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-7" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Vc5BPIK62_60SuokWr86-5">
-          <mxGeometry x="117.25" y="1" width="20" height="20" as="geometry" />
+          <mxGeometry x="117.25" y="8" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-8" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;import &lt;/span&gt;{&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic; font-size: 11px;&quot;&gt;body&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic; font-size: 11px;&quot;&gt;validationResult&lt;/span&gt;} &lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&#39;express-validator&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic; font-size: 11px;&quot;&gt;app&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;.&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;post&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&#39;/home&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;,&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic; font-size: 11px;&quot;&gt;body&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&#39;name&#39;&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;).&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;isLength&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;({&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;max&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;:&lt;/font&gt;&lt;span style=&quot;color: rgb(104, 151, 187); font-size: 11px;&quot;&gt;15&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;}).&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;withMessage&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&quot;некорректно указано имя&quot;&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;)&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;,&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;    &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(req: Request&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;, &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;res: Response) =&amp;gt; {&lt;br style=&quot;font-size: 11px;&quot;&gt;        &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;errors = &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic; font-size: 11px;&quot;&gt;validationResult&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(req)&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;        if &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(!errors.&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;isEmpty&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;()) {&lt;br style=&quot;font-size: 11px;&quot;&gt;            &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;allError = errors.&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;array&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;().&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;map&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(el =&amp;gt; {&lt;br style=&quot;font-size: 11px;&quot;&gt;                &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;return &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;{ &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&quot;message&quot;&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;: el.&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;msg&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&quot;field&quot;&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;: el.&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;param &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;}&lt;br style=&quot;font-size: 11px;&quot;&gt;            })&lt;br style=&quot;font-size: 11px;&quot;&gt;            &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;return &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;res.&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;status&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(104, 151, 187); font-size: 11px;&quot;&gt;400&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;).&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;json&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;( { &lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;errorsMessages&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;: allError} )&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;; &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;}&lt;br style=&quot;font-size: 11px;&quot;&gt;        &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;newBlog = &lt;/font&gt;&lt;font color=&quot;#9876aa&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;font-size: 11px;&quot;&gt;{&quot;какие то данные&quot;}&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;        &lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;res.&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;status&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(104, 151, 187); font-size: 11px;&quot;&gt;201&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;).&lt;/font&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;send&lt;/span&gt;&lt;font color=&quot;#a9b7c6&quot; style=&quot;font-size: 11px;&quot;&gt;(newBlog) } )&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="2780" width="384.25" height="167" as="geometry" />
+          <mxGeometry x="371" y="2967" width="384.25" height="167" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2773" width="20" height="20" as="geometry" />
+          <mxGeometry x="330" y="2960" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-10" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;возможная реализация:&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="2773" width="250" height="30" as="geometry" />
+          <mxGeometry x="357.5" y="2960" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;информацию по авторизации мы не цепляем к телу запросу а используем headers&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29.499999999999993" y="3081" width="250" height="30" as="geometry" />
+          <mxGeometry x="29.499999999999993" y="3301" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-12" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;при каждом запросе требуется отправлять login and password&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27.870000000000005" y="3152" width="250" height="40" as="geometry" />
+          <mxGeometry x="27.870000000000005" y="3372" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-13" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;headers [&#39;&#39;Authorization&#39;] = &#39;Basic login:pass&#39;&lt;br&gt;где&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;login:pass это admin:qwerty и эту часть требуется&amp;nbsp;закодировать в Base64&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="3081" width="384.12" height="40" as="geometry" />
+          <mxGeometry x="373" y="3301" width="384.12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-14" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;isAutorization =  &lt;br/&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;req.&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;header&lt;/span&gt;(&lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&#39;authorization&#39;&lt;/span&gt;) === &lt;span style=&quot;color: rgb(106, 135, 89); font-size: 11px;&quot;&gt;&#39;Basic YWRtaW46cXdlcnR5&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;if &lt;/span&gt;(!isAutorization) {&lt;br style=&quot;font-size: 11px;&quot;&gt;    &lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;return &lt;/span&gt;res.&lt;span style=&quot;color: rgb(152, 118, 170); font-size: 11px;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color: rgb(104, 151, 187); font-size: 11px;&quot;&gt;401&lt;/span&gt;)&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="3111" width="406" height="68" as="geometry" />
+          <mxGeometry x="414" y="3331" width="406" height="68" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="7" y="3081" width="20" height="20" as="geometry" />
+          <mxGeometry x="7" y="3301" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="7.870000000000001" y="3151" width="20" height="20" as="geometry" />
+          <mxGeometry x="7.870000000000001" y="3371" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-17" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="348.75" y="3081" width="20" height="20" as="geometry" />
+          <mxGeometry x="348.75" y="3301" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-18" value="&lt;pre style=&quot;font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt; &lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;let &lt;/span&gt;token = req.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;query&lt;/span&gt;.token&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="552.25" y="1260" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-19" value="&lt;pre style=&quot;font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;/user?token=123&#39;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="670" y="1219" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-22" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;&lt;span style=&quot;color:#ffc66d;&quot;&gt;authorizationMiddleware &lt;/span&gt;= (req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;next: NextFunction) =&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;isAutorization =  req.&lt;span style=&quot;color:#ffc66d;&quot;&gt;header&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;authorization&#39;&lt;/span&gt;) === &lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;Basic YWRtaW46cXdlcnR5&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    if &lt;/span&gt;(!isAutorization) {&lt;br&gt;        &lt;span style=&quot;color:#cc7832;&quot;&gt;return &lt;/span&gt;res.&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;401&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    &lt;/span&gt;} &lt;span style=&quot;color:#cc7832;&quot;&gt;else &lt;/span&gt;{&lt;br&gt;        next()&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    &lt;/span&gt;}&lt;br&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2420" width="528.69" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-23" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font color=&quot;#9876aa&quot;&gt;&lt;i&gt;app&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;post&lt;/span&gt;(&lt;span style=&quot;color:#6a8759;&quot;&gt;&#39;/users&#39;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color:#ffc66d;&quot;&gt;authorizationMiddleware&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;   &lt;/span&gt;(req: Request&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;res: Response) =&amp;gt; {&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;        &lt;/span&gt;res.&lt;span style=&quot;color:#ffc66d;&quot;&gt;status&lt;/span&gt;(&lt;span style=&quot;color:#6897bb;&quot;&gt;201&lt;/span&gt;).&lt;span style=&quot;color:#9876aa;&quot;&gt;send&lt;/span&gt;(newBlog)&lt;br&gt;    }&lt;br&gt;)&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="83.31" y="2600" width="251.37" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-25" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="47.76" y="2574" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-26" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;использование для конкретного метода:&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74.25999999999999" y="2570" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-27" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430.38" y="2574" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-28" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;использование для всего приложения:&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="456.88" y="2570" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-29" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font color=&quot;#9876aa&quot;&gt;&lt;i&gt;app&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(169, 183, 198);&quot;&gt;.&lt;span style=&quot;color:#9876aa;&quot;&gt;use&lt;/span&gt;(&lt;span style=&quot;color:#ffc66d;&quot;&gt;authorizationMiddleware&lt;/span&gt;)&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470.38" y="2594" width="251.37" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-31" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;принципиальная цепочка middleware&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.75" y="2710" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-32" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="47.25" y="2714" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-33" target="Vc5BPIK62_60SuokWr86-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-33" target="Vc5BPIK62_60SuokWr86-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-33" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;middleware&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="418.5" y="2726" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-34" target="Vc5BPIK62_60SuokWr86-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-34" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Incoming request&lt;/i&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;fillColor=#FFF7E8;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="2719" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-35" target="Vc5BPIK62_60SuokWr86-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-35" target="Vc5BPIK62_60SuokWr86-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-35" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;middleware&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="418.5" y="2759" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-38" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Response&lt;/i&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;fillColor=#FFF7E8;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="607" y="2819" width="109.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-44" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;next()&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495.75" y="2735" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-47" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;next()&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499.25" y="2772" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="Vc5BPIK62_60SuokWr86-48" target="Vc5BPIK62_60SuokWr86-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-48" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;middleware&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="418.5" y="2799" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-52" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;res.send()&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594.94" y="2706" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-53" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;res.send()&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594.94" y="2739" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
