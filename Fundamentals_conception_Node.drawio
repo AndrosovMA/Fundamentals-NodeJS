@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T04:43:29.294Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZZ6NkbRcM4Rzbjm_cy3C" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-04T04:45:58.625Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="raQ-NgQnYRqWH96gkT30" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -708,7 +708,7 @@
           <mxGeometry x="195.38" y="1212" width="250.75" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="3520" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="330" y="3507" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-59" value="&lt;b&gt;MongoDB, mongod and mongo shell, Studio 3T&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Vc5BPIK62_60SuokWr86-58">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -716,8 +716,8 @@
         <mxCell id="Vc5BPIK62_60SuokWr86-60" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Vc5BPIK62_60SuokWr86-58">
           <mxGeometry x="117.25" y="8" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vc5BPIK62_60SuokWr86-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MongoDB -&amp;nbsp; это по сути СУБД&lt;br&gt;&lt;i&gt;noSQL - документные базы данных JSON, по сути нет понятия таблицы&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="3585.5" width="376" height="44.5" as="geometry" />
+        <mxCell id="Vc5BPIK62_60SuokWr86-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MongoDB -&amp;nbsp; это по сути СУБД&lt;br&gt;mongod - это сама база данных&amp;nbsp;&lt;br&gt;mongo shell - консоль Shell ч/з которую подключаемся к БД mongod&lt;br&gt;&lt;i&gt;noSQL - документные базы данных JSON, по сути нет понятия таблицы&lt;/i&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3571.5" width="376" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-62" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;noSQL - документные базы данных JSON, по сути нет понятия таблицы&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434.69" y="4080" width="250" height="30" as="geometry" />
