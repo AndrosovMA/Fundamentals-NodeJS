@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T04:45:58.625Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="raQ-NgQnYRqWH96gkT30" version="20.3.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-04T04:49:16.883Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nJSPcnGN5d1sa5ty_Uex" version="20.3.6" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1752" dy="-1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -726,16 +726,22 @@
           <mxGeometry x="27.75" y="4170" width="299.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-64" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;Установка MongoDB&lt;br&gt;1) устанавливаем локально на компьютер - package zip с сайта mongoDB&lt;br&gt;2) в корневой папке, где распаковали пакет создаем папки /data/db&lt;br&gt;3) запускаем через cmd установку&amp;nbsp; - mongod.exe&lt;br&gt;&lt;b&gt;4) запускаем СУБД&amp;nbsp; через cmd- ./mongod --dbpath &quot;./data/db/&quot;&lt;br&gt;&lt;/b&gt;5) подключаемся к созданной СУБД ./mongo.exe через другую cmd&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="3630" width="370.5" height="110" as="geometry" />
+          <mxGeometry x="20.259999999999998" y="3661" width="370.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-65" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;основные команды при работе с СУБД через cmd:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1) db&amp;nbsp; &amp;nbsp;(к какой базе данных подключены - первоначально выведет test - база данных)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2) изменить используемую&amp;nbsp;БД -&amp;nbsp; &amp;nbsp;use youtube (произойдет switched to db youtube)&lt;br&gt;&lt;/span&gt;3) db.getCollection(&quot;videos&quot;).insertMany( [ {&quot;name&quot;:js},{}, ] ) - создание данных&lt;br&gt;4) db.getCollection(&quot;videos&quot;).find({})&amp;nbsp; - найти и показать все данные&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#808080;fillColor=#FFF2CC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="3750" width="371.75" height="140" as="geometry" />
+          <mxGeometry x="20.259999999999998" y="3781" width="371.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-66" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="15.75" y="3619" width="20" height="20" as="geometry" />
+          <mxGeometry x="6.51" y="3650" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vc5BPIK62_60SuokWr86-67" value="&lt;font face=&quot;times new roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;1) устанавливаем локально на компьютер - package zip с сайта mongoDB&lt;br&gt;2) в корневой папке, где распаковали пакет создаем папки /data/db&lt;br&gt;3) запускаем через cmd установку&amp;nbsp; - mongod.exe&lt;br&gt;4) запускаем СУБД&amp;nbsp; через cmd- ./mongod --dbpath &quot;./data/db/&quot;&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434.69" y="4120" width="360.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-69" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;Установка Studio 3T - gui - графический интерфейс пользователя для БД MongoDB&lt;br&gt;1) устанавливаем локально на компьютер - package zip с сайта mongoDB&lt;br&gt;2) в корневой папке, где распаковали пакет создаем папки /data/db&lt;br&gt;3) запускаем через cmd установку&amp;nbsp; - mongod.exe&lt;br&gt;&lt;b&gt;4) запускаем СУБД&amp;nbsp; через cmd- ./mongod --dbpath &quot;./data/db/&quot;&lt;br&gt;&lt;/b&gt;5) подключаемся к созданной СУБД ./mongo.exe через другую cmd&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="423.63" y="3661" width="396.37" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5BPIK62_60SuokWr86-70" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="409.88" y="3650" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
