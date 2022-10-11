@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:25:26.682Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ITQ6Z789xTKU7oKSrBgu" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-11T12:32:52.533Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ge3lT0w-1jw2_q-s0XZT" version="20.4.0" type="github" pages="3">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1875" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,8 +836,8 @@
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;/domain (blogs-service.ts) - обращается к репозиторию&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="135.75" y="4609" width="184.25" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UFtvu4VODOX_hwopTtZ4-1" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;Создание облачного аккаунта MongoDB Atlas&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;1) можем подключиться к локальной, удаленной, облачной&amp;nbsp; БД&lt;br&gt;2) create new connection&amp;nbsp;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="425.69" y="3802" width="366.37" height="109" as="geometry" />
+        <mxCell id="UFtvu4VODOX_hwopTtZ4-1" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;Создание облачного аккаунта MongoDB Atlas&amp;nbsp;&lt;br&gt;1) можем подключиться к облачной базе данных&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="425.69" y="3802" width="366.37" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UFtvu4VODOX_hwopTtZ4-2" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="411.94" y="3791" width="20" height="20" as="geometry" />
