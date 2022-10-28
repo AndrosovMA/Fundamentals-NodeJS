@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:24:34.423Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ie_v0fcVze5WUskxgEtN" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:28:23.956Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9iS1dEgbcORLp4SpC80o" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Monday">
-    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,7 +864,7 @@
           <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="5960" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="330" y="5850" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-2" value="&lt;b&gt;Sorting&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-1">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -873,7 +873,7 @@
           <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="5840" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="341" y="5490" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-5" value="&lt;b&gt;data-mapping, layers&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-4">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -894,10 +894,7 @@
           <mxGeometry x="155.81" y="5280" width="103.62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;CQRS - commond query respondibulity segrigation (парадигма разделения запросов)&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="436.25" y="5200.5" width="239.26" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="SQVpkHSOikLUoRkx2Ije-12" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Router &lt;/b&gt;- так как работает с HTTP -&amp;nbsp; работа с клиентом, то это уровень Presentation&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145.5" y="5640" width="212" height="35" as="geometry" />
+          <mxGeometry x="439.5" y="5210" width="239.26" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-13" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Bisiness Layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="368.75" y="5280" width="120.5" height="35" as="geometry" />
@@ -949,6 +946,15 @@
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;repositories-user.ts&amp;nbsp; - манипуляции с db&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="590.3699999999999" y="5420" width="175.19" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-29" value="&lt;span style=&quot;font-size: 10px&quot;&gt;из DAL возвращаем данные в нужном для UI&amp;nbsp; формате&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420.74" y="5553" width="239.26" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-30" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;users = &lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;await &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;collectionUsers&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;    &lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;find&lt;/span&gt;(usersFilter&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;{&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;projection&lt;/span&gt;: {&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_id&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(104, 151, 187);&quot;&gt;0&lt;/span&gt;}})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sort&lt;/span&gt;({[sortBy]: &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sortDirectionNumber&lt;/span&gt;(sortDirection)})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;limit&lt;/span&gt;(pageSize)&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skip&lt;/span&gt;(&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skipNumber&lt;/span&gt;(pageNumber&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;pageSize))&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;toArray&lt;/span&gt;()&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="4.530000000000001" y="5600" width="410" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-31" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;return &lt;/span&gt;{&lt;br&gt;    &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;pagesCount&lt;/span&gt;: (&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;Math&lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;ceil&lt;/span&gt;(allUsersCount / pageSize))&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;page&lt;/span&gt;: pageNumber&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;pageSize&lt;/span&gt;: pageSize&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;totalCount&lt;/span&gt;: allUsersCount&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;items&lt;/span&gt;: users.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;map&lt;/span&gt;(user =&amp;gt; ({&lt;br&gt;        &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;id&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;login&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;email&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;email&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;createdAt&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;createdAt&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;    &lt;/span&gt;}))&lt;br&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="423.63" y="5590" width="390" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
