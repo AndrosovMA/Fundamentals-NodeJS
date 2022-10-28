@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T10:16:24.319Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kpaxDizMvP-DtJa82n5-" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-28T10:25:04.517Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XzgAKU6G8AZvvOZrRQsF" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1070,8 +1070,104 @@
         <mxCell id="jEk_vW7k4c5opqq62rsp-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;Cost -&lt;/b&gt;&amp;nbsp;&lt;/font&gt;кол-во циклов ч/з которые будет пропущена исходная информация.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="3770" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jEk_vW7k4c5opqq62rsp-8" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;hash = &lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;await &lt;/span&gt;bcrypt.&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;hash&lt;/span&gt;(password&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;, &lt;/span&gt;passwordSalt)&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;match = &lt;span style=&quot;color:#cc7832;&quot;&gt;await &lt;/span&gt;bcrypt.&lt;span style=&quot;color:#ffc66d;&quot;&gt;compare&lt;/span&gt;(password&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;&quot;&gt;passwordHashUser&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=default;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="jEk_vW7k4c5opqq62rsp-8" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;const &lt;/span&gt;hash = &lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;await &lt;/span&gt;bcrypt.&lt;span style=&quot;color: rgb(255, 198, 109); font-size: 11px;&quot;&gt;hash&lt;/span&gt;(password&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;, &lt;/span&gt;passwordSalt)&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;const &lt;/span&gt;match = &lt;span style=&quot;color:#cc7832;&quot;&gt;await &lt;/span&gt;bcrypt.&lt;span style=&quot;color:#ffc66d;&quot;&gt;compare&lt;/span&gt;(password&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;&quot;&gt;passwordHashUser&lt;/span&gt;)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;span style=&quot;color: rgb(204, 120, 50); font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=none;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="40" y="3800" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;UI&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="212.9" y="3912.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;DAL&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="405.4" y="3912.5" width="76.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-3" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;data base &lt;br&gt;(mongodb)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="601.9" y="3910" width="88.1" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-4" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Registration&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101.9" y="3982.5" width="60" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Login&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101.9" y="4050.75" width="40" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212.9" y="3982.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329.34000000000003" y="3997.3199999999997" as="sourcePoint" />
+            <mxPoint x="371.34000000000003" y="3997.2299999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="371.34000000000003" y="3997.3199999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1) использую bcrypt -&amp;nbsp; генерируем hash&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398.48" y="3980" width="90.34" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.8000000000001" y="3997.3199999999997" as="sourcePoint" />
+            <mxPoint x="555.8000000000001" y="3997.2299999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555.8" y="3997.3199999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601.9" y="3980" width="105.95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207.9" y="4050.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="321.9000000000001" y="4066.8499999999995" as="sourcePoint" />
+            <mxPoint x="363.9000000000001" y="4066.7599999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363.9" y="4066.8499999999995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1) использую bcrypt -&amp;nbsp; генерируем hash&lt;br&gt;2) сравниваю два hash&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398.48" y="4042" width="113.42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601.9" y="4057" width="105.95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564.15" y="4066.71" as="sourcePoint" />
+            <mxPoint x="524.1500000000001" y="4066.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="524.15" y="4066.84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="3960.02" as="sourcePoint" />
+            <mxPoint x="711.9" y="3960.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="132" y="3960.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="93" y="4034.02" as="sourcePoint" />
+            <mxPoint x="714.9000000000001" y="4034.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="135" y="4034.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="4120.02" as="sourcePoint" />
+            <mxPoint x="711.9000000000001" y="4120.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="132" y="4120.02" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
