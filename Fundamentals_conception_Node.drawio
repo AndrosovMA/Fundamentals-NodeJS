@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:28:23.956Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9iS1dEgbcORLp4SpC80o" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:50:15.654Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qqsWgKxXbEnNCFkQC7m8" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-05RVlJgerzWRFB5qT2c" name="Monday">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,7 +855,7 @@
           <mxGeometry x="426.25" y="3880" width="376" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="iOypZixmCh4Z6Yrp4FuG-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="362" y="6120" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="330" y="6130" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="iOypZixmCh4Z6Yrp4FuG-7" value="&lt;b&gt;Pagination&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="iOypZixmCh4Z6Yrp4FuG-6">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -873,7 +873,7 @@
           <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="341" y="5490" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="340" y="5480" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-5" value="&lt;b&gt;data-mapping, layers&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-4">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -951,10 +951,86 @@
           <mxGeometry x="420.74" y="5553" width="239.26" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-30" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;users = &lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;await &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;collectionUsers&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;    &lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;find&lt;/span&gt;(usersFilter&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;{&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;projection&lt;/span&gt;: {&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_id&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(104, 151, 187);&quot;&gt;0&lt;/span&gt;}})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sort&lt;/span&gt;({[sortBy]: &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sortDirectionNumber&lt;/span&gt;(sortDirection)})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;limit&lt;/span&gt;(pageSize)&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skip&lt;/span&gt;(&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skipNumber&lt;/span&gt;(pageNumber&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;pageSize))&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;toArray&lt;/span&gt;()&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="4.530000000000001" y="5600" width="410" height="130" as="geometry" />
+          <mxGeometry x="6.250000000000002" y="5680" width="410" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SQVpkHSOikLUoRkx2Ije-31" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;return &lt;/span&gt;{&lt;br&gt;    &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;pagesCount&lt;/span&gt;: (&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;Math&lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;ceil&lt;/span&gt;(allUsersCount / pageSize))&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;page&lt;/span&gt;: pageNumber&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;pageSize&lt;/span&gt;: pageSize&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;totalCount&lt;/span&gt;: allUsersCount&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;items&lt;/span&gt;: users.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;map&lt;/span&gt;(user =&amp;gt; ({&lt;br&gt;        &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;id&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;login&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;email&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;email&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;createdAt&lt;/span&gt;: user.&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;createdAt&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;    &lt;/span&gt;}))&lt;br&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="423.63" y="5590" width="390" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-32" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Все запросы на сервер для получения данных сопровождаются явной сортировкой&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36.81" y="5940" width="382.24" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-33" value="&lt;b&gt;Monday -1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="689.75" y="4" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-4" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Сортировка &lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;производится&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;копии массива&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="6040" width="382.24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-5" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;users = &lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;await &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;collectionUsers&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;    &lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;find&lt;/span&gt;(usersFilter&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;{&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;projection&lt;/span&gt;: {&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_id&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(104, 151, 187);&quot;&gt;0&lt;/span&gt;}})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sort&lt;/span&gt;({[sortBy]: &lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;sortDirectionNumber&lt;/span&gt;(sortDirection)}&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="71.31" y="6040" width="368.69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-6" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;usersFilter: Filter&amp;lt;UserDbType&amp;gt; = {&lt;br&gt;    &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;$or&lt;/span&gt;: [&lt;br&gt;        { &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;login&lt;/span&gt;: {&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;$regex&lt;/span&gt;: searchLoginTerm&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;$options&lt;/span&gt;: &lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;i&#39;&lt;/span&gt;}}&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;        &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;email&lt;/span&gt;: {&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;$regex&lt;/span&gt;: searchEmailTerm&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;$options&lt;/span&gt;: &lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;i&#39;&lt;/span&gt;}}&lt;br&gt;    ]&lt;br&gt;}&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="7.869999999999999" y="5590" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473.61" y="6094" as="sourcePoint" />
+            <mxPoint x="456.11" y="6094" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="523.61" y="6094" />
+              <mxPoint x="523.61" y="6094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;сортировка&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="533.62" y="6080" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="377.44" y="5960" width="155.13" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;- по какому-то любо полю данных&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="GwXzO6LPDAbqRaPgw1qB-9">
+          <mxGeometry x="0.7500000000000003" width="154.25000000000006" height="29.814814814814817" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;- по убыванию &lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;des&lt;/font&gt;&lt;/b&gt;cending&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="GwXzO6LPDAbqRaPgw1qB-9">
+          <mxGeometry y="23.425925925925927" width="154.25000000000006" height="17.037037037037038" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;- по возрастанию &lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;asc&lt;/b&gt;&lt;/font&gt;ending&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="GwXzO6LPDAbqRaPgw1qB-9">
+          <mxGeometry x="0.8799999999999959" y="40.46296296296296" width="154.25000000000006" height="17.037037037037038" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-10" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Возвращаем всегда ограниченные данные для пользователя, всё не нужно&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34.010000000000005" y="6210" width="382.24" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-11" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;const &lt;/span&gt;users = &lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;await &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;collectionUsers&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152, 118, 170); font-style: italic;&quot;&gt;    &lt;/span&gt;.&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;find&lt;/span&gt;(usersFilter&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;{&lt;span style=&quot;color: rgb(152, 118, 170);&quot;&gt;projection&lt;/span&gt;: {&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_id&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(104, 151, 187);&quot;&gt;0&lt;/span&gt;}})&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;limit&lt;/span&gt;(pageSize)&lt;br&gt;    .&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skip&lt;/span&gt;(&lt;span style=&quot;color: rgb(255, 198, 109);&quot;&gt;skipNumber&lt;/span&gt;(pageNumber&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;pageSize))&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="75.75" y="6220" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-12" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;client&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="102.09" y="6310" width="103.62" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-13" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;back&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="376.78" y="6310" width="120.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-14" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;data base (mongodb)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="607" y="6330" width="65.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;узнаем сколько эл. в базе данных, определяем структуру и лимиты&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="363.15" y="6360" width="175.19" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.3" y="6387.33" as="sourcePoint" />
+            <mxPoint x="313.29999999999995" y="6387.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.2799999999997" y="6385" as="sourcePoint" />
+            <mxPoint x="595.2799999999997" y="6385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;запрашивает&amp;nbsp;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;page Number&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;page Size&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="117.02000000000001" y="6360" width="88.69" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GwXzO6LPDAbqRaPgw1qB-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;skip = (pN -1) * pS&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238.96" y="6345" width="88.69" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -972,6 +1048,9 @@
         </mxCell>
         <mxCell id="Ils_l4HigGubdpPkg71O-3" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Ils_l4HigGubdpPkg71O-1">
           <mxGeometry x="117.25" y="8" width="25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="UjxSiPoXIuP5PZj3DBgv-2" value="&lt;b&gt;Tuesday -2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3520" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
