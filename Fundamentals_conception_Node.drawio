@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T07:57:31.123Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bbnxx1pB8QhuQNbldruP" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:02:10.256Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="maRkC9Vl3I3L7VhoPbxj" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -765,7 +765,7 @@
           <mxGeometry y="4427" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="330" y="4720" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="330" y="4690" width="137.25" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-2" value="&lt;b&gt;Bisiness logic layer&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="7Rdv7T5G53WZr0qMlyQh-1" vertex="1">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
@@ -776,53 +776,53 @@
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=-0.003;exitY=0.287;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;jumpStyle=none;" parent="1" source="7Rdv7T5G53WZr0qMlyQh-5" target="7Rdv7T5G53WZr0qMlyQh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="32" y="4830" />
-              <mxPoint x="32" y="4952" />
+              <mxPoint x="32" y="4795" />
+              <mxPoint x="32" y="4917" />
             </Array>
-            <mxPoint x="43.02000000000001" y="4830" as="sourcePoint" />
+            <mxPoint x="43.02000000000001" y="4795" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-5" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Presentation layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="49.25999999999999" y="4820" width="150" height="35" as="geometry" />
+          <mxGeometry x="49.25999999999999" y="4785" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="7Rdv7T5G53WZr0qMlyQh-7" target="7Rdv7T5G53WZr0qMlyQh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-7" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Bisiness Layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="50" y="4944" width="150" height="35" as="geometry" />
+          <mxGeometry x="50" y="4909" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="7Rdv7T5G53WZr0qMlyQh-9" target="7Rdv7T5G53WZr0qMlyQh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-9" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Data Access Layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="50" y="5042" width="150" height="35" as="geometry" />
+          <mxGeometry x="50" y="5007" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Data Sourse &lt;br style=&quot;&quot;&gt;(любая база данных)&lt;/i&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;fillColor=#FFF7E8;strokeColor=#d6b656;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="49.25999999999999" y="5132" width="152.76" height="30" as="geometry" />
+          <mxGeometry x="49.25999999999999" y="5097" width="152.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Router &lt;/b&gt;- так как работает с HTTP -&amp;nbsp; работа с клиентом, то это уровень Presentation&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="73.02000000000001" y="4850" width="212" height="35" as="geometry" />
+          <mxGeometry x="73.02000000000001" y="4815" width="212" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-12" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Код который общается с базой данных&lt;br&gt;&lt;/b&gt;- создаем repositories&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="67.02000000000001" y="5074" width="212" height="32.5" as="geometry" />
+          <mxGeometry x="67.02000000000001" y="5039" width="212" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-13" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="32.52000000000001" y="4865" width="20" height="20" as="geometry" />
+          <mxGeometry x="32.52000000000001" y="4830" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-14" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="30" y="4992" width="20" height="20" as="geometry" />
+          <mxGeometry x="30" y="4957" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-15" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;fontStyle=1;fontFamily=Times New Roman;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="32.52000000000001" y="5102" width="20" height="20" as="geometry" />
+          <mxGeometry x="32.52000000000001" y="5067" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-16" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;./router&amp;nbsp; (blogs.ts) -&amp;nbsp; операции rest, url&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="4794" width="161.62" height="35" as="geometry" />
+          <mxGeometry x="140" y="4759" width="161.62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-17" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;./repositories (blogs-repositories) - логика взаимодействия с базой данных&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="126.06" y="5007" width="236.94" height="35" as="geometry" />
+          <mxGeometry x="126.06" y="4972" width="236.94" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7Rdv7T5G53WZr0qMlyQh-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;./domain (blogs-service.ts) - обращается к репозиторию&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="126.06" y="4909" width="184.25" height="35" as="geometry" />
+          <mxGeometry x="126.06" y="4874" width="184.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UFtvu4VODOX_hwopTtZ4-1" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px;&quot;&gt;Создание облачного аккаунта MongoDB Atlas&amp;nbsp;&lt;br&gt;1) можем подключиться к облачной базе данных&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="425.69" y="3802" width="366.37" height="48" as="geometry" />
@@ -854,28 +854,63 @@
         <mxCell id="5_eg6nCOzZikZ91mqGqP-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 11px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;- В&amp;nbsp; mongodb - document хранятся в формате BSON - легкий, проходной и эффективный (декодинг и эндкодинг очень быстрые&amp;nbsp; - используют С)&lt;br&gt;- collection - для объединения однотипных данных в одной db&lt;br&gt;- schrmaless&amp;nbsp; - безсхемная база данных&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="426.25" y="3880" width="376" height="74.5" as="geometry" />
         </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-1" value="&lt;a style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; padding: 0px; margin: 0px; color: rgb(86, 183, 244); text-decoration: inherit; font-weight: 700; vertical-align: top; font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.14994px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(34, 47, 64); line-height: 19px; word-break: break-word; cursor: pointer;&quot; href=&quot;https://samurai.it-incubator.ru/pc/video-content/watch/631b5fd64435128593c14f2e&quot;&gt;QueryRepository, основы CQS,CQRS&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="513.25" y="5230" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-2" value="&lt;a style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; padding: 0px; margin: 0px; color: rgb(86, 183, 244); text-decoration: inherit; font-weight: 700; vertical-align: top; font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.14994px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(34, 47, 64); line-height: 19px; word-break: break-word; cursor: pointer;&quot; href=&quot;https://samurai.it-incubator.ru/pc/video-content/watch/631b60964435128593c15156&quot;&gt;data-mapping, layers&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512" y="5270" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-3" value="&lt;a style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; padding: 0px; margin: 0px; color: rgb(86, 183, 244); text-decoration: inherit; font-weight: 700; vertical-align: top; font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.14994px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(34, 47, 64); line-height: 19px; word-break: break-word; cursor: pointer;&quot; href=&quot;https://samurai.it-incubator.ru/pc/video-content/watch/631b60fb4435128593c1525c&quot;&gt;Sorting, сортировка&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507.25" y="5310" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-4" value="&lt;a style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; padding: 0px; margin: 0px; color: rgb(86, 183, 244); text-decoration: inherit; font-weight: 700; vertical-align: top; font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.14994px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(34, 47, 64); line-height: 19px; word-break: break-word; cursor: pointer;&quot; href=&quot;https://samurai.it-incubator.ru/pc/video-content/watch/62868b7b04fc05b44d50ee76&quot;&gt;12 - 5 - Pagination&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528.88" y="5350" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-5" value="&lt;a style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; padding: 0px; margin: 0px; color: rgb(86, 183, 244); text-decoration: inherit; font-weight: 700; vertical-align: top; font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: 0.14994px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(34, 47, 64); line-height: 19px; word-break: break-word; cursor: pointer;&quot; href=&quot;https://samurai.it-incubator.ru/pc/video-content/watch/6261131181b3743c2ad4bec8&quot;&gt;13 - Password hash, bcrypt, check password flow&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.75" y="5450" width="360" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iOypZixmCh4Z6Yrp4FuG-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="5610" width="137.25" height="60.5" as="geometry" />
+          <mxGeometry x="342" y="5680" width="137.25" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-7" value="&lt;b&gt;Password hach, bcrypt, check password flow&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="iOypZixmCh4Z6Yrp4FuG-6">
+        <mxCell id="iOypZixmCh4Z6Yrp4FuG-7" value="&lt;b&gt;Pagination&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="iOypZixmCh4Z6Yrp4FuG-6">
           <mxGeometry y="21.5" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iOypZixmCh4Z6Yrp4FuG-8" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="iOypZixmCh4Z6Yrp4FuG-6">
+        <mxCell id="iOypZixmCh4Z6Yrp4FuG-8" value="12-5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="iOypZixmCh4Z6Yrp4FuG-6">
+          <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="5520" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-2" value="&lt;b&gt;Sorting&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-1">
+          <mxGeometry y="21.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-3" value="12-4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-1">
+          <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="5400" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-5" value="&lt;b&gt;data-mapping, layers&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-4">
+          <mxGeometry y="21.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-6" value="12-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-4">
+          <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="5150" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-8" value="&lt;b&gt;QueryRepository, основы CQS, CQRS&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-7">
+          <mxGeometry y="21.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-9" value="12-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="SQVpkHSOikLUoRkx2Ije-7">
+          <mxGeometry x="117.25" y="8" width="28" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-10" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Presentation layer&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;fontFamily=Times New Roman;fontStyle=0;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5296" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SQVpkHSOikLUoRkx2Ije-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;./router&amp;nbsp; (blogs.ts) -&amp;nbsp; операции rest, url&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190.74" y="5270" width="161.62" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jxpEuZ7vI6c1_fvBbnTC" name="Tuesday">
+    <mxGraphModel dx="1635" dy="-2641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ils_l4HigGubdpPkg71O-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="345" y="3520" width="137.25" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ils_l4HigGubdpPkg71O-2" value="&lt;b&gt;Password hach, bcrypt, check password flow&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Ils_l4HigGubdpPkg71O-1">
+          <mxGeometry y="21.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ils_l4HigGubdpPkg71O-3" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="Ils_l4HigGubdpPkg71O-1">
           <mxGeometry x="117.25" y="8" width="25" height="21" as="geometry" />
         </mxCell>
       </root>
