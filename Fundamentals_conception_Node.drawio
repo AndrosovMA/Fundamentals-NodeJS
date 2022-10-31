@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T10:26:34.119Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KSXjbo6sqB7anZR7iUTi" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-31T06:47:17.664Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3gnV6bdsA0uIlfo_IZ03" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
     <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1036,7 +1036,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jxpEuZ7vI6c1_fvBbnTC" name="Tuesday">
-    <mxGraphModel dx="1635" dy="-2641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="-3012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,7 +1088,7 @@
         <mxCell id="5T3Vt0yL0pgYh_x7cKU5-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Login&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="101.9" y="4050.75" width="40" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;login: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="212.9" y="3982.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5T3Vt0yL0pgYh_x7cKU5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
@@ -1112,10 +1112,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="601.9" y="3980" width="105.95" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;password: 12345&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="207.9" y="4050.75" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5T3Vt0yL0pgYh_x7cKU5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
@@ -1130,7 +1130,7 @@
         <mxCell id="5T3Vt0yL0pgYh_x7cKU5-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1) использую bcrypt -&amp;nbsp; генерируем hash&lt;br&gt;2) сравниваю два hash&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="398.48" y="4042" width="113.42" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;name: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5T3Vt0yL0pgYh_x7cKU5-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;hash: xxxxxxxxx&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;login&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;: max&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="601.9" y="4057" width="105.95" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5T3Vt0yL0pgYh_x7cKU5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=1;fontSize=11;" edge="1" parent="1">
