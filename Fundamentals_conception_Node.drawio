@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T08:49:55.758Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-8-ERwFn2V5U5DGNwCsT" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:58:02.127Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ucwc5OTaeltFOv6Ap8S_" version="20.5.1" type="github" pages="5">
   <diagram id="0g0TEUN6UUZUA5P1J20c" name="Page-1">
-    <mxGraphModel dx="1635" dy="-1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="-1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,7 +1036,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jxpEuZ7vI6c1_fvBbnTC" name="Tuesday">
-    <mxGraphModel dx="1635" dy="-2641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="-2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1215,6 +1215,15 @@
         </mxCell>
         <mxCell id="aI-0aAGPpwDo-yHjy10Y-6" value="14" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#ffe6cc;fontStyle=1;fontFamily=Times New Roman;strokeColor=#d79b00;" vertex="1" parent="aI-0aAGPpwDo-yHjy10Y-4">
           <mxGeometry x="117.25" y="8" width="25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="4baox1a1mBpC1bj8OAdG-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.no_symbol;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontSize=9;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="298.48" y="5010" width="41.52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4baox1a1mBpC1bj8OAdG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.no_symbol;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontSize=9;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="551.9" y="4720" width="41.52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4baox1a1mBpC1bj8OAdG-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;- заглушка - не принятая концепция разработки&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;fontFamily=Times New Roman;fontStyle=2;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="4725" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
